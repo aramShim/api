@@ -1,0 +1,27 @@
+{
+  "total_count": 2,
+  "incomplete_results": false,
+  "items": [
+    {
+      "id": 1,
+      "name": "1",
+      "full_name": "스파크_3.2kg(리필)",
+      "img_url": "https://ga71.ezadmin.co.kr/uploads/coolncool/01228_500.jpg",
+      "org_price": 3412,
+      "stock":1150,
+      "stockY":"재고있음",
+      "text": "스파크_3.2kg(리필)"
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "full_name": "스파크_3.2kg(본품)",
+      "img_url": "https://ga71.ezadmin.co.kr/uploads/coolncool/01228_500.jpg",
+      "org_price": 3412,
+      "stock":1150,
+      "stockY":"품절",
+      "text": "스파크_3.2kg(본품)"     
+    }
+  ],
+  "pagination": {"more": false}
+}
